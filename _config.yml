@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Alan E. Yocca"
-  avatar           : # path of avatar image, e.g. "/assets/images/wedding-headshot.jpg"
+  avatar           : "/assets/images/wedding-headshot.jpg"
   bio              : "PhD Candidate, Edger Lab, Michigan State University."
   location         : "Santa Fe, NM / East Lansing, MI"
   email            : aeyap42@gmail.com
