@@ -1,8 +1,8 @@
 ---
 layout: collection
-title: "Recipes"
-collection: recipes
-permalink: /recipes/
+title: "Fantasy_Football"
+collection: Fantasy_Football
+permalink: /Fantasy_Football/
 author_profile: false
 ---
 
