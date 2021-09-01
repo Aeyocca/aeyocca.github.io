@@ -1,0 +1,16 @@
+#What the hell is a pangenome?
+
+I recently set out to compare various plant pangenomes. What differences or similarities do we find between plant pangenome studies? One large confounding factor that could result in the differences between these pangenomes is their definition. At what phylogenetic distance are the members of the pangenome? Are the differences I observe a display of differences between plant lineages, or a result of differences in the size of the magnifying lens we use to investigate and construct pangenomes?
+
+A naive attempt to define a pangenome is a group of organisms capable of exchanging genetic material. That definition has several issues, the first of which is it being a definition for a biological phenomenon. There are more exceptions than rules in biology, rendering definitions context specific and extremely fragile. Instead of pandering over a definition, let's consider why one is necessary. I want pangenomes in separate plant lineages that are comparable in the sense I can attribute any observed differences to biological variation between the two groups rather than confounding methodologies used to construct the two pangenomes.
+
+Its possible there do not exist such comparable lineages (though perhaps they could be created in vitro). Often I see researchers describe their study organisms as "optimal systems" to address their questions. I will rant about that in another post.
+
+I guess I have to accept there will be observed differences due to the differences in pangenome definitions. But I don't want to work hard. Why can't it be easier than that? Is it possible to identify the differences that variations in pangenome definition cause? For example, let's say in pangenome A, 50% of genes are core while in pangenome B, 20% are core. Can we say the individuals in pangenome B are more diverse? Almost certainly, but why are they more diverse? Is it because pangenome A is made from 50 potato plants from the same species found in Columbia (Solanum tuberosum species level pangenome) while pangenome B is made from 25 potatoes in Ireland and 25 tomatoes in Columbia (eg. the Solanum genus level pangenome). This appears to be a case of methodology accounting for these differences.
+
+But what if pangenome A is the same, but pangenome B is 50 tomatoes in Columbia and we see the same differences in the proportion of core genes? Does this mean tomatoes are more diverse than potatoes? Why do I even care? Also, what the hell is divergence time or diversification rate?
+
+We do our best to select the most diverse individuals of a population (representative of "diversity clusters") to construct a pangenome. A main goal of pangenomic studies is to simply "see whats there". That's quite the simplification for it. There is merit in "seeing whats there". I think the true power of pangenomic studies now is how we will use them in the future. We're in the middle of a sequencing revolution (exaggerated?). Similar to how computation power has increased the last 50 years, we are in the upswing of increasing genomic sequencing volume and accuracy. Pangenome studies will increase in frequency and the more we do now, the better we will get at them. Additionally, these preliminary plant pangenomes can show us evidence of what we might want to focus on in future studies.
+
+
+

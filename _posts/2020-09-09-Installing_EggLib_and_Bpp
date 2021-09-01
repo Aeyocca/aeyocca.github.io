@@ -1,0 +1,275 @@
+Notes for installing egglib and bio++ for popgen stat calculations
+
+Great reference here I will try and follow:
+http://pmagwene.github.io/blog/2013/02/06/building-bio-plus-plus-and-egglib/
+
+However, need to make sure it will find where I install these.
+I am unable to write to /usr/local so installing in non-default location
+
+Seems I only need bpp-core and bpp-seq, might as well grab bpp-popgen while I'm at it.
+
+Previously compiled egglib to ~/include
+
+remove this because I believe we need bpp installed before compiling egglib... but how to tell egglib where bpp is...
+
+try in virtual environment location:
+
+[yoccaala@dev-intel14 bpp-core-2.0.3]$ module list
+
+Currently Loaded Modules:
+  1) GCCcore/6.4.0    6) imkl/2018.1.163                  11) zlib/1.2.11      16) Tcl/8.6.8      21) Java/1.8.0_152
+  2) binutils/2.28    7) OpenBLAS/0.2.20                  12) Boost/1.67.0     17) SQLite/3.21.0  22) MATLAB/2018a
+  3) GNU/6.4.0-2.28   8) FFTW/3.3.7                       13) CMake/3.11.1     18) GMP/6.1.2      23) powertools/1.2
+  4) OpenMPI/2.1.2    9) ScaLAPACK/2.0.2-OpenBLAS-0.2.20  14) ncurses/6.0      19) libffi/3.2.1
+  5) tbb/2018_U3     10) bzip2/1.0.6                      15) libreadline/7.0  20) Python/3.6.4
+
+
+`
+wkdir=~/miniconda3/envs/Python2/lib/python2.7/site-packages/
+
+mkdir -p $wkdir/tmp/bpp; cd $wkdir/tmp/bpp
+
+curl -O http://biopp.univ-montp2.fr/repos/sources/bpp-core-2.0.3.tar.gz
+curl -O http://biopp.univ-montp2.fr/repos/sources/bpp-seq-2.0.3.tar.gz
+curl -O http://biopp.univ-montp2.fr/repos/sources/bpp-popgen-2.0.3.tar.gz
+
+tar xvzf bpp-core-2.0.3.tar.gz
+tar xvzf bpp-seq-2.0.3.tar.gz
+tar xvzf bpp-popgen-2.0.3.tar.gz
+
+cd bpp-core-2.0.3
+cmake -DCMAKE_INSTALL_PREFIX=~/miniconda3/envs/Python2/lib/python2.7/site-packages/
+`
+Error:
+cannot convert ‘std::ifstream {aka std::basic_ifstream<char>}’ to ‘bool’ in initialization
+
+cmake version problem?
+[yoccaala@dev-intel14 bpp-core-2.0.3]$ cmake --version
+cmake version 3.11.1
+
+yea, so changed source file: /mnt/home/yoccaala/miniconda3/envs/Python2/lib/python2.7/site-packages/tmp/bpp/bpp-core-2.0.3/src/Bpp/Io/FileTools.cpp
+
+bool test = file;
+
+to
+
+bool test;
+test = static_cast<bool>(file);
+
+where ever it shows up. Ooof, looks like I need to do this with all of them
+
+actually, for bpp-seq/popgen I did not need to edit the files
+
+`
+make
+make install
+
+cd ../bpp-seq-2.0.3
+cmake -DCMAKE_INSTALL_PREFIX=~/miniconda3/envs/Python2/lib/python2.7/site-packages/
+make
+make install
+
+cd ../bpp-popgen-2.0.3
+cmake -DCMAKE_INSTALL_PREFIX=~/miniconda3/envs/Python2/lib/python2.7/site-packages/
+make
+make install
+`
+
+Now hopefully egglib will cooperate.. delete previous installation
+
+egglib-py-2.1.7.tar.gz from sourceforge
+
+`
+mkdir tmp/egglib
+tar xvzf egglib-py-2.1.7.tar.gz
+cd egglib-py-2.1.7
+source activate Python2
+python setup.py build
+`
+
+Bio++ not available: skipping class BppDiversity
+running build
+checking presence of C++ libraries in /mnt/home/yoccaala/miniconda3/envs/Python2
+checking egglib-cpp...
+Cannot find egglib-cpp headers! [system path: `/mnt/home/yoccaala/miniconda3/envs/Python2`]
+
+ugh, bpp in wrong place, move here:
+mv /mnt/home/yoccaala/miniconda3/envs/Python2/lib/python2.7/site-packages/include/Bpp/ /mnt/home/yoccaala/miniconda3/envs/Python2/include/
+
+checking Bio++...
+   g++ -pthread -B /mnt/home/yoccaala/miniconda3/envs/Python2/compiler_compat -Wl,--sysroot=/ -I/mnt/home/yoccaala/miniconda3/envs/Python2/include -c -o testdep.x testdep.cpp
+
+grrrr
+
+backup and get cpp libraries first
+
+`
+tar xvzf egglib-cpp-2.1.7.tar.gz
+cd egglib-cpp-2.1.7
+sh configure --prefix=/mnt/home/yoccaala/miniconda3/envs/Python2/lib/python2.7/site-packages/
+make
+make install
+`
+hmmm probably should have specified a location
+remove and redo
+
+Now time for egglib-py
+`
+mkdir tmp/egglib
+tar xvzf egglib-py-2.1.7.tar.gz
+cd egglib-py-2.1.7
+source activate Python2
+python setup.py build --prefix=/mnt/home/yoccaala/miniconda3/envs/Python2/lib/python2.7/site-packages/
+`
+still didn't find bpp libraries. need to find it while compiling egglib-cpp
+
+checking configure script for where it searched for bpp
+
+{ $as_echo "$as_me:${as_lineno-$LINENO}: checking for main in -lbpp-core" >&5
+$as_echo_n "checking for main in -lbpp-core... " >&6; }
+if ${ac_cv_lib_bpp_core_main+:} false; then :
+  $as_echo_n "(cached) " >&6
+else
+  ac_check_lib_save_LIBS=$LIBS
+LIBS="-lbpp-core  $LIBS"
+cat confdefs.h - <<_ACEOF >conftest.$ac_ext
+/* end confdefs.h.  */
+
+from egglib-cpp configure output:
+checking for main in -lbpp-core... no
+checking for main in -lbpp-seq... no
+checking for main in -lbpp-popgen... no
+
+this is a 6000 line file how the hell do we find this? Why isn't using the same prefix working?
+
+what if I install ???
+
+where is it looking for bpp?
+
+got it!! for this step at least:
+`
+export LDFLAGS='-L/mnt/home/yoccaala/miniconda3/envs/Python2/lib/python2.7/site-packages/lib/'
+./configure --prefix=/mnt/home/yoccaala/miniconda3/envs/Python2/lib/python2.7/site-packages/
+`
+
+now messing up the LDFLAGS variable causes make to fail. Unsure of what it was set to before
+hmmmm add to lib path?
+
+lets symlink the include directory and try again
+
+symlink worked but getting new error:
+BppDiversity.cpp:183:76: error: conversion from ‘std::vector<unsigned int>’ to non-scalar type ‘std::vector<long unsigned int>’ requested
+                 std::vector<size_t> temp = bpp::SequenceStatistics::MKtable(ingroup, outgroup, *p_code);
+                                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+I don't really need this function so lets try and comment out
+
+seems to have done it!
+
+`
+make
+make install
+
+cd ../egglib-py-2.1.7
+source activate Python2
+python setup.py build --prefix=/mnt/home/yoccaala/miniconda3/envs/Python2/lib/python2.7/site-packages/
+`
+
+ugh, still cannot find bio++ where the hell was egglib-cpp built?
+symlink include to tmp egglib-py directory?
+
+Nope...
+
+I think since there are warnings but no errors it is saying we dont have it. edit setup.py:
+
+`
+NOBPP = bool(len(stderr))
+#Manual	edit by	Alan Yocca
+#09-10-20
+#bpp is	there but throwing warnings so this code says we don't have it
+NOBPP =	bool(0)
+`
+
+checking Bio++...
+   g++ -pthread -B /mnt/home/yoccaala/miniconda3/envs/Python2/compiler_compat -Wl,--sysroot=/ -I/mnt/home/yoccaala/miniconda3/envs/Python2/lib/python2.7/site-packages/include -c -o testdep.x testdep.cpp
+ ... found
+ 
+ hopefully it really was..
+
+>>> import egglib
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/mnt/home/yoccaala/miniconda3/envs/Python2/lib/python2.7/site-packages/egglib/__init__.py", line 31, in <module>
+    import utils
+  File "/mnt/home/yoccaala/miniconda3/envs/Python2/lib/python2.7/site-packages/egglib/utils.py", line 33, in <module>
+    import egglib_binding, tools, fitmodel, data, wrappers, simul
+  File "/mnt/home/yoccaala/miniconda3/envs/Python2/lib/python2.7/site-packages/egglib/egglib_binding.py", line 2567, in <module>
+    class BppDiversity(_object):
+  File "/mnt/home/yoccaala/miniconda3/envs/Python2/lib/python2.7/site-packages/egglib/egglib_binding.py", line 2579, in BppDiversity
+    __swig_destroy__ = _egglib_binding.delete_BppDiversity
+AttributeError: 'module' object has no attribute 'delete_BppDiversity'
+
+do we need this class? BppDiversity
+could remove....
+
+at this point I think its best to remove everything and retry anyway, so might as well go for commenting things out
+
+commented this out also
+
+  File "/mnt/home/yoccaala/miniconda3/envs/Python2/lib/python2.7/site-packages/egglib/egglib_binding.py", line 2728, in <module>
+    BppDiversity_swigregister = _egglib_binding.BppDiversity_swigregister
+AttributeError: 'module' object has no attribute 'BppDiversity_swigregister'
+>>> quit()
+(Python2) [yoccaala@dev-intel14 egglib-py-2.1.7]$ nano +2728 /mnt/home/yoccaala/miniconda3/envs/Python2/lib/python2.7/site-packages/egglib/egglib_binding.py
+
+seems to be importing fine now?
+
+nope... running selectionStats.py not finding bpp_diversity module....
+
+ugh. lets restart?
+no why is it not finding this module?
+I think its trying to read cpp libraries but they don't have bpp integrated, must have been a problem during compilation of egglib-cpp
+
+so just going to retry the egglib-cpp
+why is it only looking in current directory for the Bpp directory?
+symlinking this directory allowed for an error free compilation.. but maybe that wasn't the right fix
+
+check configure where its looking for them but thats a mess, oh whale go for it, at 11 move on to something different
+
+`
+export CPPFLAGS="-I../../../include"
+./configure --prefix=/mnt/home/yoccaala/miniconda3/envs/Python2/lib/python2.7/site-packages/
+make
+`
+
+then get the same vector type error, try deleting again
+edit lines in setup.py also...
+`
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/mnt/home/yoccaala/miniconda3/envs/Python2/lib/python2.7/site-packages/lib/
+python
+>>>import egglib
+Segmentation fault
+`
+
+....lovely
+
+`
+conda install -c conda-forge pytest-faulthandler
+python
+>>>import faaulthandler
+>>>faulthander.enable()
+>>>import egglib
+
+Current thread 0x00002b44fecfdd80 <python> (most recent call first):
+  File "egglib/egglib_binding.py", line 18 in swig_import_helper
+  File "egglib/egglib_binding.py", line 26 in <module>
+  File "egglib/utils.py", line 33 in <module>
+  File "egglib/__init__.py", line 31 in <module>
+  File "<stdin>", line 1 in <module>
+Segmentation fault
+
+
+`
+
+
+
+
