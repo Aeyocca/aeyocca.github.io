@@ -287,3 +287,12 @@ defaults:
       comments: true
       share: true
       related: true
+
+#add fantasy collections,, and recipes
+collections:
+  recipes:
+    output: true
+    permalink: /:collection/:path/
+  Fantasy_Football:
+    output: true
+    permalink: /:collection/:path/
