@@ -1,4 +1,3 @@
-
 ---
 title: "Covidiots Fantasy Football League Week 1 recap"
 ---
