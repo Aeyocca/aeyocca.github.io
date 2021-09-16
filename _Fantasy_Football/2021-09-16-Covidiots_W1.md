@@ -18,6 +18,7 @@ There were two trades this week:
 
 | "Tony Hawks Pro Facemasking" | "Good Luck" |
 
+
 | ----------- | ---------------- |
 | Receives Robby Anderson | Receives Mike Davis |
 | Receives Brandon Aiyuk | Receives Raheem Mostert | 
@@ -25,6 +26,7 @@ There were two trades this week:
 As Mostert announced season ending surgery a day after this trade, it essentially ends up being Najee for Tyreek with high hopes for Aiyuk to come back strong from a hamstring injury.
 
 | "How Do I Butt Stuffed?" | "Oops, All WRs" |
+
 
 | Receives Ryan Fitzpatrick | Receives Justin Fields |
 | Receives Kenny Golladay | Receives Kyle Pitts | 
