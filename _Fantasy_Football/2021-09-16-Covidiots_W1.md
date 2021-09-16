@@ -1,4 +1,7 @@
-# Covidiots Fantasy Football League Week 1 recap
+
+---
+title: "Covidiots Fantasy Football League Week 1 recap"
+---
 
 ## A week of Monday night "What if"s
 "Alan's Winless Weiners" (157pts) fell to "Still the Gr8st Show On Paper" (169pts) this week. "Still the Gr8st Show On Paper" survived a near Monday Night Miracle, as Darren Waller (26.5pts) was one long TD away from stealing the matchup. If Waller scored the GW TD instead of Zay Jones, it would have put "Alan's Winless Weiners" ahead. Like he would have had the speed to score, but a man can dream. Maybe next week "Alan's Winless Weiners" will be tuned in Sunday and not start a player that didn't play (OBJ).
