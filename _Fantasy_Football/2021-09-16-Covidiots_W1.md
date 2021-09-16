@@ -17,21 +17,22 @@ This week's toilet bowl barely qualifies for the moniker. As in "The Boys" fanta
 ## Trade Recaps / Waiver Wire
 There were two trades this week:
 
+|-----------------+--------------|
 | "Tony Hawks Pro Facemasking" | "Good Luck" |
-
-
-| ----------- | ---------------- |
+|:-----------:|:----------------:|
 | Receives Robby Anderson | Receives Mike Davis |
 | Receives Brandon Aiyuk | Receives Raheem Mostert | 
 | Receives Najee Harris | Receives Tyreek Hill |
+|-----------------+--------------|
 As Mostert announced season ending surgery a day after this trade, it essentially ends up being Najee for Tyreek with high hopes for Aiyuk to come back strong from a hamstring injury.
 
+|-----------------+--------------|
 | "How Do I Butt Stuffed?" | "Oops, All WRs" |
-
-
+|:-----------:|:----------------:|
 | Receives Ryan Fitzpatrick | Receives Justin Fields |
 | Receives Kenny Golladay | Receives Kyle Pitts | 
 | Receives Travis Kelce | Receives Davante Adams |
+|-----------------+--------------|
 "How Do I Butt Stuffed?" gets their coveted top tier tight end, and "Oops, All WRs" continues to make moves at QB.
 
 "Seattle Krakens" gets some help. After their pitiful week 1 giving them top waiver priority. Though half the league put in waiver claims for him, "Seattle Kraken" nabs Elijah Mitchell. "Good Luck" had 4 unsuccessful waiver claims, and "Still the Gr8st Show On Paper" had 3. Maybe they should both try to lose more.
