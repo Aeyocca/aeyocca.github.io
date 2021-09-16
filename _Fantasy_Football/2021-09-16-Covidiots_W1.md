@@ -1,5 +1,6 @@
 ---
 title: "Covidiots Fantasy Football League Week 1 recap"
+layout: single
 ---
 
 ## A week of Monday night "What if"s
