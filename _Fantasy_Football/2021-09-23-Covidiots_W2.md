@@ -1,4 +1,7 @@
-
+---
+title: "Recap of Week 2 for The Covidiots fantasy league"
+layout: single
+---
 
 ## Some close, some... not so close
 
