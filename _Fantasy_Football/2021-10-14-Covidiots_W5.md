@@ -11,7 +11,9 @@ layout: single
 
 Thanks for helping me write the intro this week Zach.
 
+Red Solo Kupp (131pts) defeated Alans Winning Weiners (109pts). The Weiners did all they could to lose this week. A Sunday morning trade cost them about 8pts. Then, they decided to start the Chargers DST against the Browns instead of the Titan DST against the Jags. The Titans against the Jets and #2 overall pick Zach Wilson had a mediocre day, so they though the Jags and #1 overall pick Trevor Lawrence might do some damage. Conversely, the Chargers had held two great offenses (KC and DAL) to under 24 points in the last three weeks, and the Vikings held the Browns to 14 points last week. The phrase "any given Sunday" rang true as the Browns and Chargers game devolved into a shootout leaving the Chargers with -8 points, 15 less than the Titans. If Alan just let their lineup alone Sunday, they would have won by 2 points. 
 
+Seattle Krakens (184pts), one of three teams to crack 180pts this week, did so in a victory against Eating the Ws Until the Ls (145pts). The WR duo of Mike & Mike (Williams and Evans) combined for 14-278-4 and 65.8 points
 
 # Trade recap / Waiver Wire
 
