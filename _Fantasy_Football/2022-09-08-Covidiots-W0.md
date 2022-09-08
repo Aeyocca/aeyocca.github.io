@@ -17,4 +17,5 @@ Alan's Winless Weiners went for the zero-RB strategy taking a single RB in the f
 
 Good luck to Red Solo Kupp taking on the reigning champ, and congrats to Cody for the free win against anti-QB Brian this week.
 
-Lets try these predictions again, last year I didn't do much better than the ESPN projections. In fact I did notably worse
+Lets try these predictions again, I finished last year at 19-16.
+My undefeateds will be: "Alan's Winless Weiners", "Wide Tittys Tied Biddys", "Red Solo Kupp", "Team Bubble Wrap", "Jesus Christ Superstars"
