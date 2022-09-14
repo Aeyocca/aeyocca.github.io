@@ -1,7 +1,8 @@
 ---
 title: "Covidiots Fantasy Football League Week 1 recap"
 layout: single
--
+---
+
 # New year, new me
 
 NFL's week 1 had everything: blow outs, nail biters, dramatic comebacks, and even a tie! Our fantasy league emulated the NFL with high points vs. high points, Monday Night Miracles, and a toilet bowl (though unfortunately no ties). Congrats to those with a hot start, and don't worry if your still winless, its a long season.
