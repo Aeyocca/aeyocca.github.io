@@ -25,6 +25,9 @@ Broncos Country Lets Ride (BCLR; 149.1pts) lived this week on the back of the Br
 
 Team Bubble Wrap (138.38pts) got the predicted free win against Trapped in autodraft hell (Brain; 108.82pts). Nothing against Brian, I'm just proud I predicted it correctly. The week started strong for Brian with Cooper Kupp picking up where he left off last year (31.8pts). Their highly drafted duo of Austin Ekeler and Alvin Kamara disappointed however with 18.8 combined points. A fat 0 points from Cole Kmet and a fat concussion from Tee Higgins (4.7pts) didn't help either. Though unnecessary, Team Bubble Wrap had strong showings from Pat "4 first half TDs" Mahomes (34.9pts) and "Can't Guard" Mike Thomas (22.7pts). The bubble wrap mostly did a good job, but their flex started Eli Mitchell suffered an MCL sprain, will miss 8 weeks, and will likely be on waivers this week.
 
-## 
+## Predictions
+
+Last week I went 3-2 in predictions and followed ESPN's projections exactly without realizing it. That was a good start so time to ruin it.
+This week winners will be: "Alan's One-Win Weiners", "BCLR", "Captain Kirk To Bridge", "WTTB", and "Seattle Krakens" (this one was tough, TB12 against the Saints was the decider for me)
 
 
