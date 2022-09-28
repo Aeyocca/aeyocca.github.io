@@ -9,7 +9,7 @@ Early drafted running backs mostly failed to perform this week. Only 3 of the to
 
 ## Waiver wire / trades
 
-The most expensive add of the week was Romeo Doubs ($12) who went to Jesus Christ Superstars without competition. Red Solo Kupp shelled out $7 for the chance at the defense facing Brian Hoyer (GB).
+The most expensive add of the week was Romeo Doubs ($12) who went to Jesus Christ Superstars without competition. Red Solo Kupp shelled out $7 for the chance at the defense facing Brian Hoyer (GB). BCLR bid $3 on Greg Dortch but they set priorities to end up with Chase Edmonds instead. Dortch went to the Weiners for $1 because Cody doesn't know how to manage so no free transactions.
 
 There was a single trade last week, with the Weiners finally moving their accidental 9th round pick.
 
