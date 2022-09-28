@@ -7,7 +7,18 @@ layout: single
 
 Early drafted running backs mostly failed to perform this week. Only 3 of the top 15 RBs this week were drafted in the 4th round or higher (Chubb, Barkley, Henry). The rest were drafted 6th or later. Also, only 7 of the top 15 were started with 7 riding benches and 1 on waivers (Edmonds). The top 15 WRs were more sporadic (though that might be expected at this position). 7 of the top 15 WR this week are on waivers, 3 were drafted in the first 6 rounds, and 5 were on the bench (should have been 4 because I sat CeeDee for some reason..)
 
-## Waiver wire
+## Waiver wire / trades
+
+The most expensive add of the week was Romeo Doubs ($12) who went to Jesus Christ Superstars without competition. Red Solo Kupp shelled out $7 for the chance at the defense facing Brian Hoyer (GB).
+
+There was a single trade last week, with the Weiners finally moving their accidental 9th round pick.
+
+|-----------------+--------------|
+| "Alan's One-Win Weiners" | "Broncos Country Lets Ride" |
+|:-----------:|:----------------:|
+| Receives Zeke | Receives Dameon Pierce |
+| Receives Allen Robinson II | Receives Zach Ertz |
+|-----------------+--------------|
 
 ## A few key plays
 
