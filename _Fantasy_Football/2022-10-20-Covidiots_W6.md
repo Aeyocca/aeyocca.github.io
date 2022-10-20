@@ -17,6 +17,7 @@ Waivers were very busy as 14 claims were submitted for a total of $64, though 6 
 There was one trade this week and one power hungry commish that vetoed the second
 
 First:
+
 |-----------------+--------------|
 | "Hindsight Lad" | "Red Solo Kupp" |
 |:-----------:|:----------------:|
@@ -25,6 +26,7 @@ First:
 |-----------------+--------------|
 
 Second:
+
 |-----------------+--------------|
 | "Wide Tiddys Tied Biddys" | "Red Solo Kupp" |
 |:-----------:|:----------------:|
