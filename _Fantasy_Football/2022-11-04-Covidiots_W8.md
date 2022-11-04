@@ -1,3 +1,8 @@
+---
+title: "Covidiots Fantasy Football League Week 8 recap; ZW edition"
+layout: single
+---
+
 Webster's Dictionary defines fantasy football as-
  
 Wait, no, shit... that's not right. Let me try that again.
