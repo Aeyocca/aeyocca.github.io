@@ -44,35 +44,13 @@ At just about the halfway point of the season, we have 5 teams with less than $5
 In the world of trades, our league completed 2 this week, including a record-breaking 3rd trade from Bill Brower himself! They are presented below without comment:
  
 | "Wide Tiddys Tied Biddys" Receives | "Team Tallman Kiss My A$$" Receives |
-|
- 
-Tyler Lockett (SEA WR)
- 
- |
- 
-Michael Pittman Jr. (IND WR)
- 
- |
- 
+| Tyler Lockett (SEA WR) | Michael Pittman Jr. (IND WR) |
+
+
 | "Wide Tiddys Tied Biddys" Receives | "Seattle Krakens" Receives |
-|
+| Chris Godwin (TB WR) | Marcus Mariota (ATL QB) |
+| Jonathan Taylor (IND RB) | CeeDee Lamb (DAL WR) |
  
-Chris Godwin (TB WR)
- 
- |
- 
-Marcus Mariota (ATL QB)
- 
- |
-|
- 
-Jonathan Taylor (IND RB)
- 
- |
- 
-CeeDee Lamb (DAL WR)
- 
- |
  
 The No Cap Recap
 ================
