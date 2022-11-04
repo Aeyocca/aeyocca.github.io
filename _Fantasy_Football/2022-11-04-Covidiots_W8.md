@@ -95,7 +95,7 @@ The Four-Win We-iners were no slouch themselves, racking up solid performances f
 Predictions
 ===========
  
-Unfortunately, Alan only succeeded in 1 out of 5 predictions last week, bringing his season total to 15-25. I won't bother to calculate the ESPN projection comparisons, as I can only assume that ESPN was right on the money like always. Anywho, this is getting long, so here are some out-of-context predictions with no explanation (with the benefit of some Thursday Night hindsight):
+Unfortunately, Alan only succeeded in 1 out of 5 predictions last week, bringing his season total to 15-25 (Alan writing here; yall need to set your damn lineups on Wednesday). I won't bother to calculate the ESPN projection comparisons, as I can only assume that ESPN was right on the money like always. Anywho, this is getting long, so here are some out-of-context predictions with no explanation (with the benefit of some Thursday Night hindsight):
  
 "Seattle Krakens", "Alans Four-Win We-iners", "Runnin Kupp That Hill", "Team Tallman Kiss My A$$", and "Broncos Country, Let's Ride".
  
