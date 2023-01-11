@@ -101,10 +101,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alan E. Yocca"
+  name             : "Alan E. Yocca, PhD"
   avatar           : "/assets/images/wedding-headshot.jpg"
-  bio              : "PhD Candidate, Edger Lab, Michigan State University."
-  location         : "Santa Fe, NM / East Lansing, MI"
+  bio              : "Postdoctoral Researcher, Harkess Lab, HudsonAlpha Institute for Biotechnology."
+  location         : "Huntsville, AL / Atlanta, GA"
   email            : aeyap42@gmail.com
   links:
     - label: "Email"
