@@ -24,8 +24,7 @@ Mid rounds were for the 2nd QBs, as 13 were taken in rounds 5-8. I don't have nu
 The late rounds were boring. It was two weeks ago I forget.
 
 # Week 1 predictions
-
-
+I'm ready to turn a new leaf this year and get over 0.500 on my predictions. I'd at least like to beat the Pirates record which should be easier now the McCutchen is hurt. Starting their rollercoaster ride undefeated will be: Michael Oher's Conservators, Team Jeff, Cmac at #9, Token Female, Mr. Big Chest, and Bidet or Be Gay.
 
 P.S. Here is chatGPT's take on "Motivational fantasy football speech":
 "Fantasy football managers, today we embark on a quest unlike any other. Just like knights of old, we assemble our team of warriors to do battle on the virtual gridiron. The draft was our Round Table, and our roster, Excalibur. We must strategize like wizards, adapt like shape-shifters, and seize every opportunity like dragons guarding a treasure.
