@@ -4,11 +4,11 @@ date: 2023-09-06
 layout: single
 ---
 
-*Cold open*
+\* *Cold open* \*
 
-The Steel Phantom opened on May 10, 1991. The ride was very similar to the Phantom's Revenge which we are mostly familiar with. One long, slow climb followed swiftly by a steep and thrilling drop. Some complained of a rough ride, others enthralled with the double inversions late into the experience. Decades since its debut, the Steel Phantom may seem unremarkable, but when constructed it was the world's fastest and steepest rollercoaster. That's an accolade that cannot be wiped away. That legacy is forever. As we've waited over 200 days since the Superbowl, this year's fantasy season has been building and we are about to drop all in together. There will be high highs, low lows, and though in 30 years it will seem unremarkable Patrick Mahomes was selected 1st overall, a champion will emerge. That's an accolade that cannot be wiped away. That legacy is forever. Go and build your Steel Phantom.
+The Steel Phantom opened on May 10, 1991. The ride was very similar to Phantom's Revenge which we are mostly familiar with. One long, slow climb followed swiftly by a steep and thrilling drop. Some complained of a rough ride, others enthralled with the double inversions late into the experience. Decades since its debut, the Steel Phantom may seem unremarkable, but when constructed it was the world's fastest and steepest rollercoaster. That's an accolade that cannot be wiped away. That legacy is forever. As we've waited over 200 days since the Superbowl, this year's fantasy season has been building and we are about to drop all in together. There will be high highs, low lows, and though in 30 years your wins and losses will seem unremarkable, at the end a champion will emerge. That's an accolade that cannot be wiped away. That legacy is forever. Go and build your Steel Phantom.
 
-*Queue Hard Knocks music*
+\* *Hard Knocks theme starts playing* \*
 
 # Draft recap
 No draft strategy stuck out to me as egregious. We all drafted quarterbacks, and we all mostly adhered to ADP. I've read as a fantasy community we are getting better at predicting ADP, ie season finishes are getting closer to preseason ADP. However it is not all predictable. There will still be early losses (like drafting Jonathan Taylor in the 3rd), and early returns (like drafting Lenny in the 14th). There weren't nearly as many trades this year compared to last year's champ Flushable's not Flushable.
