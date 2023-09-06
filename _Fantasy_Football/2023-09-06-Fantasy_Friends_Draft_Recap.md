@@ -1,5 +1,6 @@
 ---
 title: "Fantasy Friends Fantasy Football Draft Recap/SZN preview"
+date: 2023-09-06
 layout: single
 ---
 
