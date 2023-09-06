@@ -1,5 +1,5 @@
 ---
-title: "Covidiots Fantasy Football Draft Recap/SZN preview"
+title: "Fantasy Friends Fantasy Football Draft Recap/SZN preview"
 date: 23-09-06
 layout: single
 ---
