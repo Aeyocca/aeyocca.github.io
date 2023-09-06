@@ -13,7 +13,7 @@ QBs dominated the first round this year with only 3 skill position players selec
 Diontae Johnson was actually drafted ahead of George Pickens in this draft, contrary to popular Yinzer opinion. Along those same lines I'm surprised Jaylen Warren made it out of the 4th round, I mean yinz see dat little guy? Me neither, little bowlin bawl dahn er, cant stahp em. Anthony Richardson remained until the 8th round and has the upside to be the steal of the draft in my opinion.
 
 # Late rounds
-Shout out to Bill's B**** for taking their second RB in the 12th round (Samaje Perine). Almost taking zero RB literally. I predict their QB (Hurts) will outrush their second RB this year. Mac Jones went in the 14th for a second consective year, this year going to Bill's B**** to ride the bench, but maybe that's the true secret to winning a championship. Sophomore sensation Sam Howell was drafted in the 12th and there he shall remain doomed to irrelevance
+Shout out to Bill's B\*\*\*\* for taking their second RB in the 12th round (Samaje Perine). Almost taking zero RB literally. I predict their QB (Hurts) will outrush their second RB this year. Mac Jones went in the 14th for a second consective year, this year going to Bill's B\*\*\*\* to ride the bench, but maybe that's the true secret to winning a championship. Sophomore sensation Sam Howell was drafted in the 12th and there he shall remain doomed to irrelevance
 
 # Week 1 predictions
 We all know I'm pretty sharp with the projections here so sorry for spoiling #HopeSZN for those I predict to lose. I finished the year last year at 28-42 so maybe I should pick losers instead. Starting the fantasy season undefeated will be: Alan's Winless Weiners, Shave Less Pluck More, Token Female, cmac at #2, and Team Tallman
