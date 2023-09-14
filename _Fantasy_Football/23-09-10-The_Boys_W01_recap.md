@@ -1,5 +1,6 @@
 ---
 title: "The Boys Fantasy Football League Week 1 recap"
+date: 2023-09-13
 layout: single
 ---
 
