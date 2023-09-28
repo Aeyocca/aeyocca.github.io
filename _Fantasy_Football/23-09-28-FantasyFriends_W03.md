@@ -1,6 +1,6 @@
 ---
-title: "Fantasy Friends Fantasy Football League Week 2 recap"
-date: 2023-09-21
+title: "Fantasy Friends Fantasy Football League Week 3 recap"
+date: 2023-09-28
 layout: single
 ---
 
