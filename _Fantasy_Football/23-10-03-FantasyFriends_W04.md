@@ -11,14 +11,14 @@ In fantasy football, we select players we think will score the most fantasy poin
 <figure>
     <a href="/assets/images/DST_are_stupid_W04.png"><img src="/assets/images/DST_are_stupid_W04.png"></a>
 </figure>
-<font size="10"> **Figure 1.** Student's t-Test results for the mean fantasy finish of fantasy defense and special teams started vs. those not started Week 04 in Fantasy Friends league.</font>
+<font size="1"> **Figure 1.** Student's t-Test results for the mean fantasy finish of fantasy defense and special teams started vs. those not started Week 04 in Fantasy Friends league.</font>
 
 We were even worse with tight-ends this week (Figure 2; Supplementary Methods)!
 
 <figure>
     <a href="/assets/images/TE_are_stupid_W04.png"><img src="/assets/images/TE_are_stupid_W04.png"></a>
 </figure>
-<font size="10">**Figure 2.** Student's t-Test results for the mean fantasy finish of tight-ends started vs. those not started Week 04 in Fantasy Friends league.</font>
+<font size="2"> **Figure 2.** Student's t-Test results for the mean fantasy finish of tight-ends started vs. those not started Week 04 in Fantasy Friends league. </font>
 
 Are we bad at fantasy football? Are we just a bunch of toddlers at the iPad? Are defenses and TEs stupid? Or should we start multiple TEs and defenses? We don't have this issue with the positions we start two or more players from.
 
