@@ -27,24 +27,40 @@ Lastly, I need to apologize to the community for not beating Bill this week. Eve
 Lets look at transactions
 
 Waivers:
+
 $25 for Dobbs - seems like a bust
+
 $9 for McLaughlin - seems like Sean Paytons a bitch and going to use his regime
+
 $3 Lions Defense - probably the best move of the fantasy season
+
 $3 Ravens D - I guess Jeff wanted the Steelers to lose
+
 $2 Redacted
+
 $1 Cole Kmet - Probably would rather have Pitts now
+
 $0 Commanders
+
 $0 Chargers
 
 
 This week
+
 $21 James Conner 2 for Alan
+
 $19 for Hunt? Did hunt do anything did I miss this?
+
 $16 for The Stash Minshew also for Jeff - Damn Jeff spending bank this week
+
 $10 KJ - I think is i probably the stealgle of the week
+
 $2 Josh Downs - I see me
+
 $0 Everatt to Bill - I like the stack with ekler + probably Everett has under performed
+
 $0 Still redacted
+
 $0 Steagles for the Brocos offense tomorrow.
 
 
