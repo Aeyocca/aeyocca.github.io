@@ -1,5 +1,5 @@
 ---
-title: "Fantasy Friends Fantasy Football League Week 7 recap"
+title: "Fantasy Friends Fantasy Football League Week 8 recap"
 date: 2023-11-02
 layout: single
 ---
