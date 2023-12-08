@@ -103,8 +103,8 @@ analytics:
 author:
   name             : "Alan E. Yocca, PhD"
   avatar           : "/assets/images/wedding-headshot.jpg"
-  bio              : "Postdoctoral Researcher, Harkess Lab, HudsonAlpha Institute for Biotechnology."
-  location         : "Huntsville, AL / Atlanta, GA"
+  bio              : "Postdoctoral Researcher, Honaas/Harkess Lab, UDSA & HudsonAlpha Institute for Biotechnology."
+  location         : "Wenatchee, WA / Huntsville, AL / Atlanta, GA"
   email            : aeyap42@gmail.com
   links:
     - label: "Email"
@@ -116,9 +116,9 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Aeyocca"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      # url: "https://www.linkedin.com/in/alan-yocca-027315257/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Aeyocca"
