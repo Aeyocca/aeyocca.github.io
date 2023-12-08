@@ -4,6 +4,6 @@ permalink : /pub_cv/
 
 [Current CV][1]
 
-[1]:{{ site.url }}/download/Yocca_CV_23_10.pdf
+[1]:{{ site.url }}/download/Yocca_CV_23_12.pdf
 
 [Google Scholar](https://scholar.google.com/citations?user=2jXNZfwAAAAJ&hl=en)
