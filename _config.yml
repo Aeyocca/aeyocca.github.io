@@ -118,7 +118,7 @@ author:
       url: "https://twitter.com/Aeyocca"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-square"
-      # url: "https://www.linkedin.com/in/alan-yocca-027315257/"
+      url: "https://www.linkedin.com/in/alan-yocca-027315257/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Aeyocca"
