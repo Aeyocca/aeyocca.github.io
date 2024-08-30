@@ -11,12 +11,12 @@ I was curious how well we all drafted. A conclusive answer would require a deep 
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/23_Boys_Draft_Analysis.png" alt="">
 
-The best I could do (or cared to do) was to compare how we drafted players relative to how they finished in total fantasy points from weeks 1-17. I plotted each draft pick's fantasy finish (x-axis) against their draft expectation (y-axis) with both along a log scale, since drafting the WR1 at WR10 is much more important than drafting the WR30 at WR40. The solid black line is y = x, so any draft pick above that line "exceeds" expectations, and any player below that line "fails to meet" expectations. Players are colored by position and I even changed their shapes because Jeff is color blind. 
+The best I could do (or cared to do) was to compare how we drafted players relative to how they finished in total fantasy points from weeks 1-17. I plotted each draft pick's fantasy finish (x-axis) against their draft expectation (y-axis) with both along a log scale, since drafting the WR1 at WR10 is much more important than drafting the WR30 at WR40. The solid black line is y = x, so any draft pick above that line "exceeds" expectations, and any player below that line "fails to meet" expectations. Players are colored by position and I even changed their shapes because Jeff is color blind (hahahhaa). 
 
 A few things stand out. First off: Dave and I had terrible drafts by multiple metrics. We each drafted only a single top 10 player at any position (Lamar for me, Kamara for Dave). We both only drafted 2 players that exceeded expectations (Nico Collins for Dave / KW3 for me in addition to Lamar / Kamara).
 
 |-----------------+--------------|
-| "Team Name" | "Players above expectation" |
+| Team Name | Players above expectation |
 |:-----------:|:----------------:|
 | Fields of Dreams | 9 |
 | I Pickens Boogies | 8 |
@@ -36,7 +36,7 @@ A few things stand out. First off: Dave and I had terrible drafts by multiple me
 I hold as a personal belief the most important goal of the draft is to "hit" on your first 4 picks. Lets see who had the highest average finish among their first 4 picks:
 
 |-----------------+--------------|
-| "Team Name" | "Players above expectation" |
+| Team Name | Average finish of top 4 picks |
 |:-----------:|:----------------:|
 | PP Hurts | 38.5 |
 | Mr. Big Chest | 31.25 |
