@@ -11,9 +11,11 @@ Jump to matchups ["here"](#matchups). Back to the food! On Friday, Jess and I ca
 
 Saturday was anniversary night in Parikia on the island of Paros at Bountoraki. Jess and I split some fried Feta, a bottle of Chardonnay produced on the East side of the island, and a pair of Seabream, both of which I needed to decapitate before Jess would start eating. We ate a little too late to order baklava for dessert (they had run out), but picked up some gelato on the wall home along the bay.
 
-Sunday we ventured up to Naoussa and had a pair of sunset cocktails after a relaxing day on the beach. We were handed a free round there for apparently not being assholes, and made our way to an Italian restaurant for dinner. I ordered mussels on linguine and Jess and I again shared a bottle of local wine (it's like $20 a bottle and I'm on vacation don't judge). We caught a bus back to Parikia barely after I took a wrong turn and Jess suggested hopping a fence. There were only a few nights left and I hadn't yet tried Ouzo so Jess and I found ourselves in yet another bar and me with a 200mL bottle of Ouzo (4.3 shots). The bottle listed 6 herbs as a distillate, the strongest of which was anise. Despite containing 40% ABV, the darned thing tasted like a pitzel and I was shortly on my ass.
+Sunday we ventured up to Naoussa and had a pair of sunset cocktails after a relaxing day on the beach. We were handed a free round there for apparently not being assholes, and made our way to an Italian restaurant for dinner. I ordered mussels on linguine and Jess and I again shared a bottle of local wine (it's like $20 a bottle and I'm on vacation don't judge). We caught a bus back to Parikia barely after I took a wrong turn and Jess suggested hopping a fence. There were only a few nights left and I hadn't yet tried Ouzo so Jess and I found ourselves in yet another bar and me with a 200mL bottle of Ouzo (~4.3 shots). The bottle listed 6 herbs as a distillate, the strongest of which was anise. Despite containing 40% ABV, the darned thing tasted like a pitzel and I was shortly on my ass.
 
 Monday we sadly traveled back to Athens for one last day and dined at Soumbrak. The trip had to be wrapped up with a fresh block of Feta and "Fisherman's pasta" containing calamari, shrimp, mussels and octopus. Tuesday morning I sipped some hotel espresso while taking one final look at the Parthenon before hopping on a plane. I may miss the tastes of Greece, but I'm ready to see my dog and my own bed again. I think the literal gallon of olive oil we're returning with should help me get through.
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Parthenon_espresso.jpg" alt="">
 
 # Matchups
 
@@ -27,4 +29,4 @@ Amon Ra Dog (151.78) pulled ahead of Token Female (137.28). Their namesake has a
 
 # Predictions
 
-Last week I went
+Last week I went 2-2 for a hot 6-2 start. This week's winners will be: Alan's One Win Weiners, Sesame Seed Sons, Chumpion (picking them any time the Bucs have a + matchup), Amon Ra Dog (Derrick Henry 150+ and 2), and all "prove you're a human" captchas Bill encounters this week.
