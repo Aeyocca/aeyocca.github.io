@@ -1,18 +1,28 @@
-Let's attempt a football intro! Link to a summary of the rest of my Greece trip if you're interested. I think I've read enough tweets to write a commentary and the absurd number of injuries to fantasy relevant players this week and last. Here's a short list:
+---
+title: "The Boys Fantasy Football 2024 W2"
+layout: single
+---
 
-Cooper Kupp ankle
-Isaiah Pacheco fibula
-Justin Jefferson quad
-Deebo Samuel
-Tua cranium
-Rachaad White
-Puka Nacua Knee
-Joe Mixon ankle
-AJ Brown hamstring
-Tee Higgins hamstring
-Jordan Addison ankle
-ARSB 
-Jordan Love ankle
+Let's attempt a football intro! Link to a summary of the rest of my Greece trip if you're interested. I think I've read enough tweets to write a commentary and the absurd number of injuries to fantasy relevant players this week and last. Here's a short list (don't quote me on the timelines):
+
+
+|-----------------+--------------|
+| Player | Injury | Timeline |
+|:-----------:|:----------------:|
+| Cooper Kupp | Ankle | 3 weeks |
+| Isaiah Pacheco | Leg | 6 weeks |
+| Justin Jefferson | Quad | 0 weeks |
+| Deebo Samuel | Calf | 2 weeks |
+| Tua | Cranium | 6 weeks |
+| Rachaad White | Groin | 0 weeks |
+| Puka Nacua | Knee | 3 weeks |
+| Mixon | Ankle | 0 weeks |
+| AJ Brown | Hamstring | 2 weeks |
+| Tee Higgins | Hamstring | 1 week |
+| ARSB | Leg | 0 weeks |
+| Jordan Love | Ankle | 1 week |
+| Evan Engram | Hamstring | 1 week |
+|-----------------+--------------|
 
 
 The Kupp injury is disappointing since in week 1 he looked in top tier shape, and now who knows what the Rams offense will look like without their top 2 pass catchers. I'm surprised Pacheco hasn't been injured earlier since he runs so angrily, but 6 weeks at the start of the season is a rough spot. Justin Jefferson shouldn't miss any games which is great. The 49ers seem to have it rough with CMC on IR and Deebo likely to follow, but they've plenty of offensive weapons left. 
@@ -45,5 +55,5 @@ Good on Paper (110.78) could do nothing but watch on Sunday as MBC laid it on ea
 
 # Predictions
 
-Last week I went 4-2 for a solid 10-2 record. It really is all downhill from here, huh? This week's winners will be: 
+Last week I went 4-2 for a solid 10-2 record. It really is all downhill from here, huh? This week's winners will be: 120 in my Lambo, Hamas Rockets (if he remembers to change his lineup), RIP Kirko Chainz, Team Jeff, Good on Paper, and Mr. Big Chests
 
