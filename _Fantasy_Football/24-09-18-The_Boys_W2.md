@@ -37,14 +37,24 @@ RIP Kirko Chainz (107.42) struggled to victory over Taylor (79.62) in this week'
 
 Hamas Rockets (126.28) blew past Team Jeff (93.34). The rule of thumb this week was "break 100, secure the win, unless you're Steve". Team Jeff's team had only 3 TDs, QBs included. I didn't screenshot his bench so I'm not entirely sure what went on, but Malik Willis (12.98, a career high I believe) and Xavier Legette (goose) found their way to the starting lineup. Rhamondre Stevenson (17) and Brock Bowers (18.8) seem to be later round hits, but it wasn't enough against Hamas Rockets. The Rockets had an unusually bad fantasy game from Josh Allen (9.76) but we're buoyed by James Conner (19.4) and Davante Adams (26). That reminds me, the Ravens and Bengals are 0-2, lolololol. Evan Engram (goose) and Cooper Kupp (7.7) were injured this week but not before helping crack 100 and secure a win.
 
-`wins=1
+<code>
+wins=1
+
 z_score=122.44
+
 opp_score=100
+
 z="not_steve"
+
 if [[ ${z_score} > ${opp_score} ]] && [ ${z} != "Steve"]; then
+
   wins=$(wins + 1)
+
 fi
-echo ${wins}`
+
+echo ${wins}
+</code>
+
 ZWC spent a team effort on a win this week against Goffballs (95.26). The Nico Collins (27.5) CJ Stroud (14.3) produced a modest combo of the back of a 40+ yard TD. Goffballs meanwhile had no players from the same team and only 2 from the same game (Goff 10.78 / Rachaad White 3.3). Only 2 players sat in single digits for ZWC (Waddle 8.5 / Conklin 2.0) while over half of the Goffballs sat below 10. The lone star performance came from DK Metcalf (28.9) in the Seahawks OT victory over the Pats. Are the Pats good with Brissett? Idk didn't watch the games.
 
 The Bear (124.56) found themselves in the 100+ point club against Token Female (89.58). As with other sub 100 teams, TDs were hard to come by with only 2 skill position TDs (Etienne 14.8 / Kittle 20.6). The good news for Token Female is DeAndre Swift's fantasy production shot up over 60% from week 1. The bad news is they still only scored 8.2 points. The Bear, so named for Caleb Williams (9.36) and DJ Moore (11.3), have relied on other roster pillars for their 0-2 start as the Bears continue to find their footing. ARSB (22.9) bounced back from a poor week 1, yet did leave the game injured (I think, idk didn't watch). Tua (8.5) and Pacheco (16.1) definitely left the game injured which might hurt The Bear moving forward, but 2-0 is a really nice start.
