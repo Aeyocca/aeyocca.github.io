@@ -5,7 +5,7 @@ layout: single
 
 Week 2 is brought to you by my 11 hour flight home. I'm through 2 movies so far (There Will be Blood / The Imitation Game) and have started "The Ministry of Ungentlemanly Warfare". My review of the 3rd movie so far? Way too over the top but I'm beginning to realize that's the point.
 
-Jump to matchups here. Back to the food! On Friday, Jess and I caught breakfast and espresso at Fira on the island of Santorini before sailing to the dormant Central volcano that spawned it's caldera. A pair of street gyros hit the spot after sailing before we returned to Oia for sunset. We dined at Meze Meze in the village of Finikia. I hesitantly ordered goat since I usually don't enjoy beef roast. The potatoes and carrots cooked in the meats fat however were divine.
+Jump to matchups ["here"](#matchups). Back to the food! On Friday, Jess and I caught breakfast and espresso at Fira on the island of Santorini before sailing to the dormant Central volcano that spawned it's caldera. A pair of street gyros hit the spot after sailing before we returned to Oia for sunset. We dined at Meze Meze in the village of Finikia. I hesitantly ordered goat since I usually don't enjoy beef roast. The potatoes and carrots cooked in the meats fat however were divine.
 
 Saturday was anniversary night in Parikia on the island of Paros at Bountoraki. Jess and I split some fried Feta, a bottle of Chardonnay produced on the East side of the island, and a pair of Seabream, both of which I needed to decapitate before Jess would start eating. We ate a little too late to order baklava for dessert (they had run out), but picked up some gelato on the wall home along the bay.
 
