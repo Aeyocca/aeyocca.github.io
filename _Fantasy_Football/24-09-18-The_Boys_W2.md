@@ -39,21 +39,13 @@ Hamas Rockets (126.28) blew past Team Jeff (93.34). The rule of thumb this week 
 
 <code>
 wins=1
-
 z_score=122.44
-
 opp_score=100
-
 z="not_steve"
-
 if [[ ${z_score} > ${opp_score} ]] && [ ${z} != "Steve"]; then
-
   wins=$(wins + 1)
-
 fi
-
-echo ${wins}
-</code>
+echo ${wins}</code>
 
 ZWC spent a team effort on a win this week against Goffballs (95.26). The Nico Collins (27.5) CJ Stroud (14.3) produced a modest combo of the back of a 40+ yard TD. Goffballs meanwhile had no players from the same team and only 2 from the same game (Goff 10.78 / Rachaad White 3.3). Only 2 players sat in single digits for ZWC (Waddle 8.5 / Conklin 2.0) while over half of the Goffballs sat below 10. The lone star performance came from DK Metcalf (28.9) in the Seahawks OT victory over the Pats. Are the Pats good with Brissett? Idk didn't watch the games.
 
