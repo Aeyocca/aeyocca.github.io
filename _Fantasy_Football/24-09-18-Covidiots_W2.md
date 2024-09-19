@@ -1,3 +1,7 @@
+---
+title: "Covidiots Fantasy Football League Week 2 recap"
+layout: single
+---
 
 Week 2 is brought to you by my 11 hour flight home. I'm through 2 movies so far (There Will be Blood / The Imitation Game) and have started "The Ministry of Ungentlemanly Warfare". My review of the 3rd movie so far? Way too over the top but I'm beginning to realize that's the point.
 
