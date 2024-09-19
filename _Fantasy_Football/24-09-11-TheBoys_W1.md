@@ -1,5 +1,5 @@
 ---
-title: "The Boys Fantasy Football 2024 W1"
+title: "The Boys Fantasy Football 2024 Week 1 Recap"
 layout: single
 ---
 
@@ -10,9 +10,13 @@ I promise I will get to the matchups, and here is a ["jump to recipe"](#matchups
 On Sunday, Jess and I departed Pittsburgh for a five -year anniversary trip to Greece. Our first flight departed PIT at 12:20pm and didn't land until 1:35 in JFK. I signed up for a free trial of SiriusXM thinking I could pay for the inflight wifi and listen to the Steelers game, but decided I could miss the first quarter. Upon landing I finally got a signal and tuned in just in time for Deshone Elliot's interception and the wizard's 57 yard FG. The next flight left at 3:25. I paid for the inflight wifi on this one, but the signal was so weak I couldn't even stream the radio.
 
 We landed in Athens at 8am local time, caught the train to the city center, and spent the day exploring historical landmarks. My personal favorites were the Parthenon and the prison of Socrates. Socrates is one of my favorite philosophers because he reminds me so much of Steve. 
+
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/PXL_20240909_093515232.jpg" alt="">
+
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/PXL_20240909_122052182.jpg" alt="">
+
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/PXL_20240909_100601650.MP.jpg" alt="">
+
 The next morning we woke up at 5am local time (10pm eastern) to catch a flight to Crete so there was plenty of time for me to see the 49ers continue to prove they are a cut above the rest of the league. Jess and I toured and olive farm, samples plenty of the local delicacy raki, and snorkeled around Dia island peering pottery shards dating back to Minoan civilization. Now, we are on a 2 hour ferry to Santorini and I don't have a window seat so I have some time to kill. 
 
 To avoid international phone charges, I'm running off wifi only so before I left the Airbnb I screenshotted the matchups for some quick writeups. I watched literally zero plays this week except for the Thursday and Saturday games and only screenshotted the starters so you won't get called out for bad start/sit decisions.
