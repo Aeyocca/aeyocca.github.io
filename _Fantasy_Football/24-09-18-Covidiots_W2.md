@@ -15,7 +15,7 @@ Sunday we ventured up to Naoussa and had a pair of sunset cocktails after a rela
 
 Monday we sadly traveled back to Athens for one last day and dined at Soumbrak. The trip had to be wrapped up with a fresh block of Feta and "Fisherman's pasta" containing calamari, shrimp, mussels and octopus. Tuesday morning I sipped some hotel espresso while taking one final look at the Parthenon before hopping on a plane. I may miss the tastes of Greece, but I'm ready to see my dog and my own bed again. I think the literal gallon of olive oil we're returning with should help me get through.
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Parthenon_espresso.jpg" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Parthenon_hotel_espresso.jpg" alt="">
 
 # Matchups
 
