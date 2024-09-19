@@ -1,13 +1,29 @@
+---
+title: "Covidiots Fantasy Football League Week 1 recap"
+layout: single
+---
 
 *Article started Sept 12, completed Sept 17*
 
-Apologies for the lack of football in this week's article but I'm on vacation. Here's a "jump to matchups" link if you don't care.
+Apologies for the lack of football in this week's article but I'm on vacation. Here's a "jump to matchups" ["link"](#matchups) if you don't care.
 
-Let's talk about food! Our trip started in an Athenian cafe where I sipped Greek Coffee across from Jess's latte. Greek Coffee is traditionally cooked over hot ash in these serving cups with the grounds cooking to a sludge which settles at the bottom. Coffee is poured to a separate serving mug where the espresso like bitter beverage can be enjoyed. It's nice to try the local, and it wasn't bad but I much prefer the espresso over here. For dinner we ate at BourBadiki, starting with my personal favorite appetizer fresh Feta drizzled with olive oil and served with bread. We also split a bottle of petelouda Rose . For dinner I enjoyed some grilled Red mullet, a native species to the Mediterranean while Jess opted for Smoked Seabass. Next night's dinner was even better as we traveled to Crete and secured 10pm dinner reservations to 7 thelasses. Feta was on the menu again followed by sushi topped with Tuna from a 30lb fish caught that morning. I rediscovered how much I enjoy mussels as I tore through seafood pasta as I listened to the local alley cats argue over who gets to beg at that restaurant.
+Let's talk about food! Our trip started in an Athenian cafe where I sipped Greek Coffee across from Jess's latte. Greek Coffee is traditionally cooked over hot ash in these serving cups with the grounds cooking to a sludge which settles at the bottom. Coffee is poured to a separate serving mug where the espresso like bitter beverage can be enjoyed. It's nice to try the local, and it wasn't bad but I much prefer the espresso over here. 
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Greek_coffee.jpg" alt="">
+
+For dinner we ate at BourBadiki, starting with my personal favorite appetizer fresh Feta drizzled with olive oil and served with bread. We also split a bottle of petelouda Rose . For dinner I enjoyed some grilled Red mullet, a native species to the Mediterranean while Jess opted for Smoked Seabass. 
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/First_dinner.jpg" alt="">
+
+Next night's dinner was even better as we traveled to Crete and secured 10pm dinner reservations to 7 thelasses. Feta was on the menu again followed by sushi topped with Tuna from a 30lb fish caught that morning. I rediscovered how much I enjoy mussels as I tore through seafood pasta as I listened to the local alley cats argue over who gets to beg at that restaurant.
 
 Before dinner the third night, we sipped a pair of lattes in a bookstore with the smell of newly printed novels all in Greek. We ate dinner quite early that night, sitting at 7:40pm at Apiri. The food was so good I made it halfway through the Tomato salad appetizer (covered in feta of course) and the main course before remembering to snap photos. I'm also not usually the photo type of guy, but I think my Nana will really enjoy them as she's always been interested in world travel yet has been bedridden for 5 years now. At Apiri we made a begging friend Jess called "Chops" because she was frequently licking her chops. 
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Chops.jpg" alt="">
+
 This morning I picked up a double espresso and sat on the balcony to watch the sunrise before hopping on a ferry to Santorini where I had a few hours to kill.
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Heraklion_sunrise.jpg" alt="">
 
 # Matchups
 
@@ -22,5 +38,9 @@ Bill (142.16) walked to a victory over Token Female (116.22). Josh Allen (31.18)
 Man, having only 4 Matchups to write about is great.
 
 # Predictions 
+Last week, I went 4-0 (5-0 if you count old age beating Bill). This week, I waited too long to pick, gimme myself and ESPN projections.
+
+
+
 
 I went 10-0 across the two leagues, let's go! This week's winners are: I didn't look this week, give me myself and ESPN projections
