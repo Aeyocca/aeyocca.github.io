@@ -1,5 +1,5 @@
 ---
-title: "The Boys Fantasy Football 2024 W2"
+title: "The Boys Fantasy Football 2024 Week 2 Recap"
 layout: single
 ---
 
