@@ -1,3 +1,8 @@
+---
+title: "The Boys Fantasy Football League Week 3 recap"
+layout: single
+---
+
 # If you ain't first, you're last
 
 Each team is either happy, or unhappy 3 weeks in, as there are only 4 possible records. A third of the teams remain unbeaten, a third winless, and the rest in the murky middle. The Wilson division leads the Fields division only 11-7, hardly skewed in my opinion. The largest story line through three weeks team performance wise is Dave's team leading points "FOR" by nearly 100, yet most of that hype can be found in last week's article.
