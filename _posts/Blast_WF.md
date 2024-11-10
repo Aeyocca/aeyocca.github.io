@@ -1,6 +1,6 @@
 ---
-title: "CS2 Blast World Final: \"Force or Save?\""
-layout: single
+layout: post
+title: CS2 Blast World Final: \"Force or Save?\"
 ---
 
 # Blast World Final save meta
