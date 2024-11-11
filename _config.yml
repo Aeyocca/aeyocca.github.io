@@ -112,8 +112,8 @@ analytics:
 author:
   name             : "Alan E. Yocca, PhD"
   avatar           : "/assets/images/wedding-headshot.jpg"
-  bio              : "Postdoctoral Researcher, Honaas/Harkess Lab, UDSA & HudsonAlpha Institute for Biotechnology."
-  location         : "Wenatchee, WA / Huntsville, AL / Atlanta, GA"
+  bio              : "Genomics Data Scientist, Bayer Crop Science"
+  location         : "Atlanta, GA"
   email            : aeyap42@gmail.com
   links:
     - label: "Email"
@@ -131,9 +131,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Aeyocca"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://bsky.app/profile/aeyocca.bsky.social"
 
 # Site Footer
 footer:
