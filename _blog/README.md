@@ -1,1 +1,3 @@
-Attempting to create a place to host posts for procrastiblog
+Attempting to create a place to host posts for procrastiblog...
+
+unsuccessful, although I think I got things in the _posts/ directory to actually show up
