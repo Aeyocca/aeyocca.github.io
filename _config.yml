@@ -306,3 +306,6 @@ collections:
   Fantasy_Football:
     output: true
     permalink: /:collection/:path/
+  blog:
+    output: true
+    permalink: /:collection/:path/
