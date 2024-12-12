@@ -1,0 +1,25 @@
+FROM ubuntu:18.04
+
+COPY ./paup4a169_ubuntu64 /bin/
+
+#Alan had to set these because work computer VPN...
+#ENV http_proxy 'redacted'
+#ENV https_proxy 'redacted'
+
+RUN apt-get update && \
+    apt-get install -y gcc-7 g++-7 gfortran-7 && \
+    apt-get clean && \
+    rm -rf /var/lib/apt/lists/*
+
+# Set GCC 7 as default
+RUN update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-7 70 \
+                        --slave /usr/bin/g++ g++ /usr/bin/g++-7 \
+                        --slave /usr/bin/gfortran gfortran /usr/bin/gfortran-7
+
+RUN apt-get update && \
+    apt-get install -y -qq build-essential libpython2.7 libcurl3-gnutls
+
+#ENV PATH="/bin/"
+
+ENV http_proxy=""
+ENV https_proxy=""
