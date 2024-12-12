@@ -6,7 +6,7 @@ full-width: false
 
 A pair of mutuals on Bluesky have recently claimed an error message running the latest version of PAUP on M1 chip Macs. Error messages akin to `error while loading shared libraries: libgfortran.so.4`
 
-I've written a short [Dockerfile]({{ site.url }}{{ site.baseurl }}/blob/master/assets/Dockerfile_PAUP) I got to work on my ARM64 Mac (at least got it to print the help message).
+I've written a short [Dockerfile](https://aeyocca.github.io/assets/Dockerfile_paup) I got to work on my ARM64 Mac (at least got it to print the help message).
 
 Put that buildfile in a directory with the [ubuntu binary](https://phylosolutions.com/paup-test/paup4a169_ubuntu64.gz) unzipped and changed permissions to 755 with 
 
