@@ -1,3 +1,8 @@
+---
+title: "The Boys Fantasy Football 2025 Week 2 Recap"
+layout: single
+---
+
 # Thats more like it
 
 Touchdowns were back on the menu this week, as our league average score shot up to 129.5 points. A whopping 14 players cracked 25 points and only four of them were QBs. Interestingly, we have 5 teams each that are 2-0 and 0-2 as the injury bug starts rearing its ugly head. Starting in week 3 we already project to have five changes at starting QB from week 1. We also haven't had any trades yet this year. That's quite rare for use, trade me cowards.
