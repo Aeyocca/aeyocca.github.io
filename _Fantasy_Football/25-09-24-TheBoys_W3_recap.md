@@ -1,0 +1,50 @@
+---
+title: "The Boys Fantasy Football 2025 Week 3 Recap"
+layout: single
+---
+
+# Football Baby
+
+Has anyone seen the ESPN app now has a Matchups Recap? Their LLM was obviously trained on my previous columns based on the poor prose and lack of insight. If I were to use an LLM to write this column I think the most useful thing would be adding the players and teams scores in parenthesis because typing those out every time has become really annoying. Though like nearly every application of LLMs, theres a more accurate coding based solution to that. The best thing to come from this is a projected next week winner based on Wednesday's rosters! That should make me look a little better in my predictions.
+
+## Transactions 
+
+We had a pair of trades this week including what I think might be Max's most balanced trade ever, though now he has to change part of his team name. My suggestion below is in response to him kicking all the Nabers off his team.
+
+|-----------------+--------------|
+| Agent Zero | SWHT |
+|:-----------:|:----------------:|
+| Receives Hollywood Brown | Receives Isaiah Pacheco |
+|-----------------+--------------|
+
+
+|-----------------+--------------|
+| Mr. Big Chests | Bear Force 2: The White Washing |
+|:-----------:|:----------------:|
+| Receives Malik Nabers | Receives Derrick Henry |
+| Receives Treyveon Henderson | Receives Marvin Harrison Jr. |
+|-----------------+--------------|
+
+
+Mrs Goff and Too Many Bengals both tried to chase Tre Tuckers 3 TD day with Mrs Goff winning at $26. Sterling Shepard went for $6 also to Mrs Goff, and all other winning bids went for $1.
+
+## Matchupa
+
+Justin the Nico Time (119.68) was bested by Some Whiffs Here and There (129.86) Sunday. This was overall a fairly close matchup that JNT got too cute with the start/sit decisions with. Frustrated with lack of rushing attack and heavy involvement of Najee, JNT went with Judkins (16.5) over Omarion Hampton (24.9). Tucker Kraft was injured during the week, and the browns defense is doing what the Steelers defense is paid to do, so JNT went to the waiver wire Sunday morning to find their planned target of Jonnu Smith scooped up by their opponent, having to settle for Jatavion Sanders (3.1). The good news there is literally no FA TE could have made a difference. SWHT hit on what may be the RB1 by the end of the year Jonathan Taylor (32.8) showing up yet again against the Titans with 3 TDs. SWHT were also carried by Jalen Hurts (29.04) scoring in the passing game more than he usually does. Hurts and the Eagles were in a rare for them passing game script with a two score deficit against the Rams. AJ Brown and DeVonta Smith reminded the world they exist with nearly 200 yards and 2 TDs between them and 4 total TDs for Hurts. Nico Collins (22.4) arrived back on the scene for JNT this week to supplement an overall mediocre but not bad team showing. All but two of JNTs players were in the double digits, but only two of those players cracked 20 points. 0-3 isn't a death sentence, but having the 3rd least points scored does not bode well for JNTs future. 
+
+Bear Force 2: Nabers in Paris (125.04) collected a free win this week against Team Jeff (65.2) and one of the worst super flex weeks I've ever seen. Sorry Max, but this paragraph is dedicated to Team Jeff. To be fair, Team Jeff's primary QBs Joe Burrow and Justin Fields were out this week. They were replaced by Jake Browning (7.9) who imploded against the Vikings and Deebo Samuel (4.9) who was not a favorite of Marcus Mariota who only had 15 completions anyway. Alvin Kamara (6.6) was surprisingly not used as a pass catcher in an extremely negative game script where the Saints were down 21-3 in the 1st quarter. Speaking of not being used as a pass catcher, Ashton Jeanty (6.3) saw zero targets in a similar game script for the Raiders. Quentin Johnston (14.9) actually had a decent week, but accounted for nearly 23% of all Team Jeff's points this week. If it's any solace, there were no worth while players on the bench, Steve scored 141 and still lost, and you're still 2-1.
+
+Hamas Rockets (146.82) showed up this week against Mrs Goff (112.04). Mrs Goff's Lions stack wasn't nearly as potent this week as is was last week. Despite a high scoring affair, most of the Lions points came on the ground. That left Jared Goff and ARSB with 33.8 combined points, exactly 40% of which coming from their lone TD pass. James Cook (20.8) and Kyren Williams (19.2) gave par performances, but injuries stifled Mrs Goff. Mike Evans 13.3 ripped his hamstring and CeeDee (0) suffered a high ankle sprain. Beyond contributing to a loss against Team Autodraft, these injuries will likely shut down the highly drafted WRs for multiple weeks. Hamas Rockets benefitted from the resurgence of AJ Brown (22.9), and a surprisingly good game out of Garrett Wilson (24.4) despite having Tyrod Taylor as a QB. Hamas Rockets did have three parts of a Falcons offense that were shut out by the Carolina Panthers, but Bijan managed to muster up 16.1 points. The rockets were put over the top by David Montgomery (29.4) who averaged more than 10 yards per carry Monday night to accompany a pair of TDs and the first win of the season for the Rockets.
+
+Token Female (130.08) put Too Many Bengals (99.36) in his place this week. Too Many Bengals changed their name in response to the shellacking the Bengals took from the Vikings. Isaiah Rodgers (DB for the Vikings) single handedly scored more points (12) than the entire Bengals offense (10). Ja'Marr Chase and Chase Brown combined for 14.9 points including less than 75 combined yards. Too Many Bengals also had too many Cowboys this week with Dak (14.04) and Javonte (12.2) not getting much going in Chicago. In fact, the only player that I was impressed with for Too Many Bengals was th Colts DST (16) who feasted on the flailing Titans. Token Female meanwhile has several impressive performance including Puka Nacua (22.8), JSN (20.6), and DeVonta Smith (20). Even Token Female's DST (TB, 17) kept pace with Too Many Bengals, leading to and easy Token Female victory.
+
+Mr. Big Chests (123.5) snuck past Call of Kyler: Murray Warfare 2 (103.58). CKMW2 struggled to get production from the WR trio of Brian Thomas Jr (7.5), Jakobi Meyers (9.3) and Zay Flowers (3.3). MBC nearly matched those totals with MHJ (7.4) and Ladd (8.1). However, and early injury to CeeDee turned George Pickens (17.8) into the primary WR target for Dak. MBC cobbled together a pair of lowly drafted QBs this week that successfully finished at QB5 (Mariota 20.28) and QB (Daniel Jones 15.28), and got a pair of TD runs from Jordan Mason (23.6) and the Vikings rout of the Burrow-less Bungles. CKMW2 couldn't keep up as Josh Jacobs (12.4) was lucky to eclipse double digits against a Browns defense that once again held their opponent to under 3 yards per carry (Steelers allowing 4+ in each game but who's counting). Heading into Monday night, CKMW2 was down about 60 points but still had the Lamar, Flowers stack. Lamar (27.02) ended up with a solid score line, but unfortunately Flowers (3.3) had an absolute dud, and MBC still had King Henry (10.7) who put the matchup away with an opening drive TD.
+
+Team Tendonitis (153.28) won the matchup of the week against $81k Team (141.26). $81k Team struggled for the most part with Tua (13.84), Shaheed (8.2), and Travis Hunter (3.1) disappointing. Ken Walker (18) managed a pair of TDs, but just 38 rushing yards.of course it wouldn't be a Steve run team if he didn't have a better scoring TE on the bench (Andrews 27.1) than in the starting role (Bowers 9.8). Team Tendinitis has only one player in the single digits, but even Chubba scored 9.6. Caleb Williams (29.12) diced up the Cowboys defense for 4 TDs and Trey McBride (15.3) caught an elusive TD. Thanks to an astounding 37 point game from the Vikings DST, Steve was up heading into Monday night against Jahmyr Gibbs. Gibbs got things going early with an opening drive TD and added another later completing the victory for Team Tendonitis.
+
+Jess defeated pregnancy this weekend. Her due date was over 10 days away, October 1st, when she started experiencing symptoms of pre-eclampsia. A blinding headache that induced vomiting prompted us to go to the hospital on Sunday around 2pm. If the write-ups seemed not too detailed this week it's because I'm usually spending all day Sunday watching RedZone. At the hospital, Jess's test results were clean but her symptoms continued so the doctor decided it was better safe than sorry to induce her. A slow induction over night followed by a hit of Pitocin in the morning led to spaced out but very painful contractions by midday. Baby was about ready to come at 5pm, but the stubborn bastard decided to play jump rope with his umbilical cord, so the doctor had to stop contractions. Eventually the process was started back up and Jess began pushing around 8:30pm. Our baby has a massive head and damn near refused to leave. After several failed attempts even with the vacuum plunger the call was made to go for a C-section, but Jess said she had enough in her for one more push. Sure enough at the end of the next contraction, out popped Riley James Yocca at 10:30pm, all 8lbs 1oz of him. The official start of Labor is an ambiguous point but let's call it somewhere between 17 and 25 hours. The good news is after we settle in this week I'm off work for a while so next week's write up will be back to normal and all of your inboxes should have trade offers next week (even if they're not good ones). Officially half this league are parents now so maybe we can get a group rate on daycare for our fantasy draft next year. Also, I'm now introducing Dad joke of the week: Why couldn't the bicycle get out of bed this morning? Because it was two tired.
+
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/bby_riley_terrible_towel_.png" alt="">
+
+## Projections 
+We've had our third straight 3-3 week and ESPN projections were 4-2 for 11-7 total. This week's winners are: Justin the Nico Time, Token Female, Bear Force 2, Team Jeff, Mr. Big Chests, and Team Tendonitis.
