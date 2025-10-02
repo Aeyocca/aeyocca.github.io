@@ -1,0 +1,66 @@
+---
+title: "The Boys Fantasy Football 2025 Week 4 Recap"
+layout: single
+---
+
+# Heat Check
+
+We're just over a quarter of the way through the fantasy regular season. We're out of undefeated teams and the team with the least points for (Team Jeff - 431.4) is sitting at 3-1. In fact five teams are well positioned at 3-1 and Too Many Bengals are the only winless team. Injuries are starting to manifest, but sleepers are starting to legitimize themselves. I mean there are going to be 12 top players at each position. Lets check out the top 5 players at each position.
+
+|-----------------+--------------|
+| Player | Position | Position Rank |
+|:-----------:|:----------------:|
+| Josh Allen | QB | 1 | 
+| Lamar Jackson | QB | 2 | 
+| Patrick Mahomes | QB | 3 | 
+| CMC | RB | 1 | 
+| James Cook | RB | 2 | 
+| Jonathan Taylor | RB | 3 | 
+| Bijan Robinson | RB | 4 | 
+| Jahmyr Gibbs | RB | 5 | 
+| Puka Nacua | WR	 | 1 | 
+| ARSB | WR | 2 | 
+| Rome Odunze | WR | 3 | 
+| Quentin Johnston | WR | 4 | 
+| Garrett Wilson | WR | 5 | 
+| Jake Ferguson | TE | 1 | 
+| Trey McBride | TE | 2 | 
+| Hunter Henry | TE | 3 | 
+| Tyler Warren | TE | 4 | 
+| Tucker Kraft | TE | 5 | 
+|-----------------+--------------|
+
+
+Honestly its a lot more highly drafted players than I would have guessed.
+
+## Transactions
+
+We had one trade this week
+
+|-----------------+--------------|
+| $81k Team | Justin the Nico Time |
+|:-----------:|:----------------:|
+| Receives the Bears WR4 (DJ Moore) | Receives the Packers WR4 (Matthew Golden) | 
+|-----------------+--------------|
+
+Darren Waller was snagged for $20 by Max, and Too Many Bengals got the news early that Dillon Gabriel was going to start for the Browns (I hadn't seen that news anywhere until after waivers ran). 
+
+## Matchups
+
+Justin the Nico Time (163.12) finally got in the win column against $81k Team (125.84). Fireworks started this matchup early Sunday in Dublin as DK Metcalf (23.6) for Steve and JJ (22.6) for JNT showed they were the dominant WRs on their respective teams. JNT's whole squad stepped up with double digits from everyone except the Chargers DST (9). Drake Maye (23.22) continues to be a late round QB steal and now sits at QB4 on the year. Quinshon Judkins (21.5) looks like he can hit defenses as effectively as he hits women, and Omarion Hampton (27.5) thrived in Najee's absence averaging over 10 yards per carry despite losing to the Giants. $81k Team was led once again by Josh Allen (25.86) who was surprisingly necessary into the fourth quarter against the Saints. Despite those Saints playing the Bills close, Rashid Shaheed (9.2) did not connect on one of his usual deep shots for $81k Team. Thursday night, Ken Walker (12) was dominating the Cardinals until he took a 15 yard penalty for flicking the ball at an opponent. After that, Mike MacDonald threw him to the bench while Zach Charbonet came in for a goal line TD a few plays later. Heading into the week, these teams swapped DJ Moore and Matthew Golden. The move was largely inconsequential however, as this matchup was mostly decided by the end of the early window on Sunday.
+
+Token Female (140.38) swept past Mrs Goff (120.14). This matchup was tight for most of the day Sunday. On Thursday, Token Female could only squeeze 13 points from JSN, and Justin Herbert (14.52) was humbled by the Giants early Sunday. Mrs Goff's Goff (13.72), ARSB (26) stack faced the toughest defense in the NFL, but turned out okay thanks to a pair of TDs. In fact, those two plays were the only TD passes thrown by Goff on Sunday, both of which occurring in the redzone, accounted for 58% of Goff's points. Mrs Goff also racked up major points from James Cook (22.5) who looks a little like Saquon did last year and CJ Stroud (18.42) who had his best fantasy game since week 4 of last year (!). Hunter Henry (11.9) salvaged a two catch day with a TD, but a pair of injuries to CeeDee and Mike Evans left Mrs Goff with poor options at WR. Chasing Tre Tucker's (4.2) 3 TD performance did not pay off, nor did trusting Calvin Ridley (5) in the Titan's shutout loss. Overall though, things were looking good for Mrs Goff for most of the day. Token Female's Trevor Lawrence (11.66) and DeVonta Smith (4.9) fell short of expectations, but Token Female's fortunes were turned once again by Puka Nacua. Puka absolutely dominated the Colts early and often with a second straight week with 15 targets. Outside of Stafford's game winning 88 yard TD pass to Tutu Atwell, Puka accounted for >59% of Stafford's yards. The fate of Token Female's team rests squarely on the back of Matthew Stafford, and so far its holding strong.
+
+Hamas Rockets (129.22) stole a win against MAZDA-3 Marvin (122.84). This was largely a matchup between four players from either team, as nine total players in this matchup (half of them) scored 10 points or less. Both teams got stud performances from stud RBs. CMC (26.1) continues to carry M3M and the 49ers as he is on pace for >430 total touches (last year Saquon had 388). Bijan (28.1) at the same time was incredibly efficient through the air with his second game of 100 receiving yards. M3M accumulated nearly 8 garbage time points for Carson Wentz (23.2) as the Steelers ran the ball on fourth and goal from the 4 yard line shortly before blowing coverage to letup a 90 plus yard reception by Jordan Addison. Matt Stafford (27.4) also had a long TD with less than 2 minutes in the game, but it resulted in a game winning TD rather than a garbage time score. After a 40 point tie Sunday night giving M3M's Packers DST -5 points, heading into Monday night's double header it was Bo Nix for M3M down 13 points against the Rockets' Garrett Wilson. The Jets struggled early and often with a trio of fumbles against the Dolphins. The resulting negative game script gave Fields and Wilson plenty of opportunities to connect. In fact, Wilson made an incredible TD grab on the last play of the 3rd quarter. That play was negated by a ticky tack offensive pass interference call, but Wilson would not be denied on his next chance right after the 2 minute warning. Since this game kicked off an hour earlier than the Broncos' game, there was still time for Nix to catch up. Unfortunately for M3M, their game was well in hand against the inept Burrow-less Bungles who failed to cross midfield after their first offensive possession, wrapping things up for Hamas Rockets.
+
+Team Jeff (160.64) crushed the hopes of Too Many Bengals (144.34). TMB benefitted from a pair of designed screens to Dallas Goedert (19.7). Other teams should take note of the Eagles strategy here who had two other successful plays against the Buccaneers that faked an inside run and pitched the ball to the perimeter to avoid Vita Vea. Team Jeff slowly accumulated points from Kamara (11.2) who began to ceed work to Kendre Miller, and from TMac (10.2). Quinten Johnston (23.8) continued his blistering pace now sitting at WR4 on the year (compared to WR51 for Ladd). To wrap up a solid early window for Team Jeff, Deebo (20.1) benefitted from the absence of Terry McLaurin securing all six of his targets. Travis Etienne Jr. (19.5) looked like his old self on Sunday for TMB while Brock Purdy (19.66) had a decent fantasy day while looking a good bit worse than a $200 million QB. Team Jeff seemed to pull away in the late window thanks to Ashton Jeanty's breakout game. After three mediocre weeks of poor Raiders run blocking, Jeanty was still looking good on film, suggesting he was close to breaking a long run one of these weeks. The special sauce was apparently the Bears defense, against which Jeanty (33.5) ripped three TDs, one of which coming from 64 yards out. At the same time, the Colts creatively and often used Tyler Warren (18.3), designing a rushing TD for the rookie. TMB stormed back in Sunday night's shootout with Jordan Love (26.28) and Javonte Williams (19) moving the ball at will. The good news for TMB heading into Monday night was they had three players left to play and a fair chance of a comeback. Things were looking good initially as Justin Fields and the Jets were largely inept for most of the game. However, after falling down 17-3, Fields started heating up with a 43 yard rushing TD on a broken play and ended up with 27.14 points. Regardless of the Fields garbage time, TMB did indeed have too many Bengals with Ja'Marr Chase (7.3) and Chase Brown (10.1) actually accumulating an impressive amount of fantasy points for being on an offense that had two drives the entire game gain more than 10 yards. Yikes. Only two more games without Rashee.
+
+Some Whiffs Here and There Club (130.96) trounced Mr. Big Chests (106.82). Things did not go well for Mr. Big Chests Sunday. In Dublin, Jordan Mason (10.2) had a modest showing against the Steelers though fell short of expectations given how successful other RBs have been against the Steelers. Marcus Mariota (17.24) also found himself in a passing game script against the Falcons and scored an acceptable amount of fantasy points. The big story, however, was recently acquired Malik Nabers (4) tearing his ACL early in the game Sunday casting a dark shadow over the entire squad. Sunday night, George Pickens (33.4) picked up the slack for CeeDee's absence, but that big performance only served to save face for MBC, pulling him barely above 100 points. SWHTC put this one away easily on Sunday morning, having set his alarm early enough to see Jaylen Warren as a surprise inactive. He threw Kenny G into the starting lineup to the tune of two rushing TDs and 31.4 points. SWHTC had the injury bug rub off from either MBC's team or from leaving James Conner on the bench, as Tyreek Hill suffered a season ending knee injury on Monday night. After the Kenny G game though, not much more was needed for SWHTC to put this one away.
+
+LamaRB1 and the Funky Bunch narrowly escaped with a win against Team Tendonitis (127.58). Team Tendonitis must have been out running Sunday morning as they missed the Jaylen Warren inactive and was stuck with a goose in the flex. They were picked up though by Jahmyr Gibbs (17.7) making the Browns' defense look human with 91 rushing yards despite their teammate Montgomery averaging 1.3 yards per carry. Emeka Egbuka (20.1) looked to be having their first dud game until a pair of Philly DBs misplayed a desperation deep shot from Baker, jumping early and letting the rookie jog in a 77 yard TD. Mike's team started off slow Sunday as Brian Thomas Jr. (10.6) still hasn't returned to last year's form and Juwan Johnson (5.8) appeared to be playing through a minor injury. The Lions DST (21), however, were man handling Joe Flacco and the Browns. The Ravens Chiefs game was one of the most anticipated games of the week, but I don't think anyone anticipated the Chiefs blowing the Ravens out of the water. Mahomes (27.3) threw for four TD passes for Team Tendonitis thanks in part to a trio of injuries to Ravens' starting defenders. The Ravens defense through four weeks has now given up and average of 33 points per game. This usually means great things for Mike's team with Lamar and Zay Flowers. Unfortunately for him though, Lamar (11.68) tweaked his hamstring early in the third quarter as his team was down three scores and didn't get a shot at garbage time. The Raiders Bears game was much less anticipated but weighted equally to Ravens Chiefs in this fantasy matchup. Team Tendonitis salvaged 12.78 points from Caleb Williams while LamaRB1 and the Funky Bunch only scraped 7 points out of Jakobi on as many targets. Miraculously, Geno Smith was able to surpass 12 fantasy points after throwing three interceptions and only 117 yards. Thanks Ashton Jeanty. Mike needed a monster game from Josh Jacobs to save his week and Jacobs was delivering for most of the game. There were points in the fourth quarter where Jacobs was coming off the field and wincing in pain just to come back in the game a few plays later. With about 40 seconds left in the game, the Packers were down a field goal. Jordan Love went to take a shot downfield but decided better of it, checking the ball down to Jacobs who took it for 25 yards apparently sealing the victory for LamaRB1 and the Funky Bunch on one of the last plays Jacobs was part of since Jacobs did not touch the ball in OT. Later, I found out Mike had already wrapped up the victory on the previous drive thanks to a stat correction change of a pitch to a forward pass, but my version of events is more exciting. Sadly for Team Tendonitis, five of his seven bench players scored enough for the victory had he seen the Jaylen Warren inactive.
+
+## Predictions
+
+We're getting really good a going 3 for 3. ESPN projections seem to have trouble updating since it lists Mariota as projected 0 points last week? They still ended up 5-1 but I think they cheated. I guess I'll have to start writing down their projected winners here. This week's winners according to ESPN are: Too Many Bengals, JNT, $81k Team, Team Tendonitis, Mrs Goff, and Token Female. I'll take Team Jeff over Token Female if he sits Browning. This is a rough week for byes. I think I'll start next week covering all the nasty starts we were forced into this week including me starting Spencer Rattler.
+
+
