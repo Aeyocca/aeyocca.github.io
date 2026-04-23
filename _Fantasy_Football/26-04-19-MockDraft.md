@@ -1,3 +1,8 @@
+---
+title: "5 years of Mock drafts"
+layout: single
+---
+
 # Mock Draft
 
 Its draft week in the Steel City! I strongly considered swinging up this weekend, but ultimately I decided I don't like crowds. If the Steelers ever have a top 5 pick, I'd consider travelling for the draft, but while we toil with the worst possible draft position for teams without playoff wins, I won't make the effort. The NFL has also shortened the first round of the draft this year limiting teams to eight minutes per pick instead of ten. I will now be 20% less mad at the Raiders for taking the full clock before announcing Mendoza. 
