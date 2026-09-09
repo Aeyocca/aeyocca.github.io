@@ -1,6 +1,7 @@
 ---
 title: "The Boys Fantasy Football 2025 Week 9 Recap"
 layout: single
+date: 2025-11-04
 ---
 
 # Heating up

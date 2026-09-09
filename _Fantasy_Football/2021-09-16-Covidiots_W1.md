@@ -1,6 +1,7 @@
 ---
 title: "Covidiots Fantasy Football League Week 1 recap"
 layout: single
+date: 2021-09-16
 ---
 
 ## A week of Monday night "What if"s

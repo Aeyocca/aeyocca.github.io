@@ -1,6 +1,7 @@
 ---
 title: "Covidiots Fantasy Football 2023 draft recap hindsight"
 layout: single
+date: 2024-09-04
 ---
 
 # Merry Christmas Eve!

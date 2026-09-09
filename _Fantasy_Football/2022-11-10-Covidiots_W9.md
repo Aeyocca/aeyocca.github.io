@@ -1,6 +1,7 @@
 ---
 title: "Covidiots Fantasy Football League Week 9 recap"
 layout: single
+date: 2022-11-10
 ---
 
 # Keepin it even

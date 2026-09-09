@@ -1,6 +1,7 @@
 ---
 title: "The Boys Fantasy Football 2025 Week 2 Recap"
 layout: single
+date: 2025-09-17
 ---
 
 # Thats more like it

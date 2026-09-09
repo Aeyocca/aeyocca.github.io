@@ -1,6 +1,7 @@
 ---
 title: "The Boys Fantasy Football 2025 Week 8 Recap"
 layout: single
+date: 2025-10-29
 ---
 
 # Parity

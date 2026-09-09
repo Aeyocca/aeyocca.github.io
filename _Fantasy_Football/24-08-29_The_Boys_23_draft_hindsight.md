@@ -1,6 +1,7 @@
 ---
 title: "The Boys Fantasy Football 2023 draft recap hindsight"
 layout: single
+date: 2024-08-29
 ---
 
 # Playoffs?!?!?!?!

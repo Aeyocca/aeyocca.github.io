@@ -1,6 +1,7 @@
 ---
 title: "Covidiots Fantasy Football League Week 6 recap"
 layout: single
+date: 2022-10-20
 ---
 
 # A day late

@@ -1,6 +1,7 @@
 ---
 title: "The Boys Fantasy Football League Week 3 recap"
 layout: single
+date: 2024-09-26
 ---
 
 # If you ain't first, you're last

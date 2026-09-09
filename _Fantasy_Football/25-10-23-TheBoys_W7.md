@@ -1,6 +1,7 @@
 ---
 title: "The Boys Fantasy Football 2025 Week 7 Recap"
 layout: single
+date: 2025-10-23
 ---
 
 # Boom week

@@ -1,6 +1,7 @@
 ---
 title: "Covidiots Fantasy Football League Week 7 recap"
 layout: single
+date: 2022-10-26
 ---
 
 # Separation at the half way mark

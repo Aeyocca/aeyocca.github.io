@@ -1,6 +1,7 @@
 ---
 title: "The Boys Fantasy Football 2024 Week 4"
 layout: single
+date: 2024-10-03
 ---
 
 "There are a lot of fantasy points to be had in the early games", I remarked to the group shortly before scoring dramatically slowed. We finally saw some higher scoring NFL matchups thanks in part to 3 teams falling behind by 3 scores in the first quarter (Steelers, Eagles, and Packers). Though all three teams would eventually lose, two of those contests were competitive and rife with great fantasy score lines. 

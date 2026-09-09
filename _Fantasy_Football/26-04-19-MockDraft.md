@@ -1,6 +1,7 @@
 ---
 title: "5 years of Mock drafts"
 layout: single
+date: 2026-04-19
 ---
 
 # Mock Draft

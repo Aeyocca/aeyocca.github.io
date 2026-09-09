@@ -1,3 +1,9 @@
+---
+title: "Livin on a prayer"
+layout: single
+date: 2024-10-24
+---
+
 # Livin on a prayer
 
 We've made it halfway through the year with every team securing at least a pair of wins. 3-4 gets you into the playoffs with a 74 point spread across the last playoff team and last place in the league. Everyone's very much still alive in a week coming up without byes and 3 matchups between bottom 7 teams (3-4 or worse).

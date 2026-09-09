@@ -1,6 +1,7 @@
 ---
 title: "Covidiots Fantasy Football League Week 8 recap; ZW edition"
 layout: single
+date: 2022-11-04
 ---
 
 Webster's Dictionary defines fantasy football as-

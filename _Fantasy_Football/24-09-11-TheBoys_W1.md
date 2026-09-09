@@ -1,6 +1,7 @@
 ---
 title: "The Boys Fantasy Football 2024 Week 1 Recap"
 layout: single
+date: 2024-09-11
 ---
 
 Howdy fuckers. Bet you didn't think you'd hear from me this week. To be honest I planned to skip weeks 1 & 2, but why miss a chance to talk about myself?

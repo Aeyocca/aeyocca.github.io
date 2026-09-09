@@ -1,6 +1,7 @@
 ---
 title: "Covidiots Fantasy Football League Week 3 recap"
 layout: single
+date: 2022-09-27
 ---
 
 # Unexpected production

@@ -1,6 +1,7 @@
 ---
 title: "Covidiots Fantasy Football League Week 1 recap"
 layout: single
+date: 2022-09-13
 ---
 
 # New year, new me

@@ -1,6 +1,7 @@
 ---
 title: "The Boys Fantasy Football 2025 Week 3 Recap"
 layout: single
+date: 2025-09-24
 ---
 
 # Football Baby

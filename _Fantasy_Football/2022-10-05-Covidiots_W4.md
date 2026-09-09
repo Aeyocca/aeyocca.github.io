@@ -1,6 +1,7 @@
 ---
 title: "Covidiots Fantasy Football League Week 4 recap"
 layout: single
+date: 2022-10-05
 ---
 
 # 2-2

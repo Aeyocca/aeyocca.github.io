@@ -1,6 +1,7 @@
 ---
 title: "Covidiot Fantasy Football League Draft recap, week 1 predictions"
 layout: single
+date: 2022-09-08
 ---
 
 It's been a long offseason for the Covidiot Football League. To quickly recap last season, parity was rampant as the two regular season champs finished 9-5, 7 others were 6-8 or better, and Brian's QB-depleted squad finished 2-12. Team Tallman Kiss My A$$ edged out Still the Gr8st Show on Paper by 6 points thanks to a 35pt game from Hard Knocks darling Amon-Ra St. Brown to take home the championship.

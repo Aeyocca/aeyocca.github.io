@@ -1,6 +1,7 @@
 ---
 title: "Covidiots Fantasy Football League Week 1 recap"
 layout: single
+date: 2024-09-11
 ---
 
 *Article started Sept 12, completed Sept 17*

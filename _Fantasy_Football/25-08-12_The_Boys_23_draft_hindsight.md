@@ -1,6 +1,7 @@
 ---
 title: "The Boys Fantasy Football 2024 draft recap hindsight"
 layout: single
+date: 2025-08-12
 ---
 
 # Wait, its still August

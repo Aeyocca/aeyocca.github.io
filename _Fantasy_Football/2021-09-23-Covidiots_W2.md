@@ -1,6 +1,7 @@
 ---
 title: "Recap of Week 2 for The Covidiots fantasy league"
 layout: single
+date: 2021-09-23
 ---
 
 ## Some close, some... not so close

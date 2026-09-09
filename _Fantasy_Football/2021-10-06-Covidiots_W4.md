@@ -1,6 +1,7 @@
 ---
 title: "Covidiots Fantasy Football League Week 4 recap"
 layout: single
+date: 2021-10-06
 ---
 
 ## Pop a bottle for the '72 Dolphins

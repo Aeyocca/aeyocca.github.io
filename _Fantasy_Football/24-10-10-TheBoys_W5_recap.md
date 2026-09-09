@@ -1,6 +1,7 @@
 ---
 title: "The Boys Fantasy Football 2024 Week 5 Recap"
 layout: single
+date: 2024-10-10
 ---
 
 # They are who we thought they were

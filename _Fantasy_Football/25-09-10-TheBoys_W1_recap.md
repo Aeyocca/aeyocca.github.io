@@ -1,6 +1,7 @@
 ---
 title: "The Boys Fantasy Football 2025 Week 1 Recap"
 layout: single
+date: 2025-09-10
 ---
 
 # Aaaand We're Back

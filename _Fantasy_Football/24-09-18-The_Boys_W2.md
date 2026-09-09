@@ -1,6 +1,7 @@
 ---
 title: "The Boys Fantasy Football 2024 Week 2 Recap"
 layout: single
+date: 2024-09-18
 ---
 
 Let's attempt a football intro! Link to a summary of the rest of my Greece trip if you're interested. I think I've read enough tweets to write a commentary and the absurd number of injuries to fantasy relevant players this week and last. Here's a short list (don't quote me on the timelines):

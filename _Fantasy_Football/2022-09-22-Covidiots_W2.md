@@ -1,6 +1,7 @@
 ---
 title: "Covidiots Fantasy Football League Week 2 recap"
 layout: single
+date: 2022-09-22
 ---
 
 # Deserving winners

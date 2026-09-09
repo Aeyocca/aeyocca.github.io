@@ -1,6 +1,7 @@
 ---
 title: "Covidiots Fantasy Football League Week 5 recap"
 layout: single
+date: 2021-10-14
 ---
 
 ## Parity grows

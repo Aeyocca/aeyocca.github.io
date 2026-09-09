@@ -1,6 +1,7 @@
 ---
 title: "The Boys Fantasy Football League Turkey Day recap"
 layout: single
+date: 2022-11-25
 ---
 
 # Favorite side?
