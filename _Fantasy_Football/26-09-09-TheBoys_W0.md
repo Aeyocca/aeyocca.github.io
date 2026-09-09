@@ -8,7 +8,7 @@ date: 2026-09-09
 
 Happy NFL season to those who celebrate. Viewing daytime games will be a little more difficult for me this year since Riley is much less of a blob and officially hits "toddler" before week 3. The good news for night games is that Riley's bedtime is 7:30. The bad news is my bedtime is now 10 (at least that's what I tell myself). I plan to keep up the article again this year and promise it will be #notAI. However, I might use AI to help me get data for my data nugget section which my work will be paying for because we use our personal Github accounts through which our copilot subscriptions are managed. If you have any suggestions for what you would like to keep / would like added let me know.
 
-Also, if you have a minute today, try sliding in here to place your predictions for the 2026 season: .
+Also, if you have a minute today, try sliding in here to place your predictions for the 2026 season: [2026_NFL](https://duckduckgo.com).
 
 ## Draft recap
 
